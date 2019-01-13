@@ -8,7 +8,6 @@ That is really easy code (experimental). If you want to make something similar, 
  #### Then, import my function:
     import school_1411
 ## Usage
-   You can use 2 functoins: fib_1 and '''top_secret'''
-   ### To call them, type: school_1411.fib_1() or school_1411.top_secret()
-   ### fib_1 will print furst N Fibonacci Numbers
-   ### Do not use top_secret!!!
+ #### To find first N Fibonacci numbers call the function fib_1() and input your number:
+    school_1411.fib_1()
+ ##### That is all by now!
