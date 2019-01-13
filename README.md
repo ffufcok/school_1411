@@ -3,7 +3,9 @@ That is really easy code (experimental). If you want to make something similar, 
 # Usage examples:
  ## Installing
     Firstly, install my package with cmd:
-    '''pip install school_1411'''
+    '''
+    pip install school_1411
+    '''
  ## Importing
    ### Type 'py' in your cmd to start. Then, import my package with 'import school_1411'
  ## Functions
