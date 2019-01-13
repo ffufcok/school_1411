@@ -4,9 +4,9 @@ That is really easy code (experimental). If you want to make something similar, 
     pip install school_1411
  ## Importing
  #### Firstly, call Python with the following command:
-   
-   py
-   import school_1411
+    py
+ #### Then, import my function:
+    import school_1411
 ## Usage
    You can use 2 functoins: fib_1 and '''top_secret'''
    ### To call them, type: school_1411.fib_1() or school_1411.top_secret()
