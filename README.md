@@ -3,7 +3,7 @@ That is really easy code (experimental). If you want to make something similar, 
  ## Installing
     pip install school_1411
  ## Importing
- ##########Firstly, call Python with the following command:
+ #### Firstly, call Python with the following command:
    
    py
    import school_1411
