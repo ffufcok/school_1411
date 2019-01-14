@@ -3,8 +3,11 @@ That is really easy code (experimental). If you want to make something similar, 
  ## Installing
     pip install school_1411
  ## Importing
-  Firstly, call Python with the following command: 
-  'py'
+  Call Python and import my function eith the following commands: 
+  '''
+  py
+  import school_1411
+  '''
  #### Then, import my function:
     import school_1411
 ## Usage
