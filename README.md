@@ -9,6 +9,6 @@ That is really easy code (experimental). If you want to make something similar, 
   import school_1411
   ```
 ## Usage
- #### To find first N Fibonacci numbers call the function fib_1() and input your number:
-    school_1411.fib_1()
- #### That is all by now! See you soon!
+  To find first N Fibonacci numbers call the function fib_1() and input your number:
+    `school_1411.fib_1()`
+    *_That is all by now! See you soon!_*
