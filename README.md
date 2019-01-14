@@ -4,12 +4,10 @@ That is really easy code (experimental). If you want to make something similar, 
     pip install school_1411
  ## Importing
   Call Python and import my function eith the following commands: 
-  '''
+  ```
   py
   import school_1411
-  '''
- #### Then, import my function:
-    import school_1411
+  ```
 ## Usage
  #### To find first N Fibonacci numbers call the function fib_1() and input your number:
     school_1411.fib_1()
