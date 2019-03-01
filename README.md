@@ -3,11 +3,11 @@ That is really easy code (experimental). If you want to make something similar, 
  ## Installing
     pip install school_1411
  ## Importing
-  Call Python and import my function eith the following commands: 
+  You can import my function with the following command: 
  ```
- py
  import school_1411
  ```
+ ## Usage
   To find first N Fibonacci numbers call the function `fib_1()` and input your number:
   ```
   school_1411.fib_1()
