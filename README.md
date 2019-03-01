@@ -12,5 +12,9 @@ That is really easy code (experimental). If you want to make something similar, 
   ```
   school_1411.fib_1()
   ```
-  To find the roots of a quadratic or linear equation, use the function: `solve(a, b, c)`
+  To find the roots of a quadratic or linear equation, use the function: `solve(*coefficients)`
+  If you call function with 3 arguments, they will be arguments of quadratic equation ax2+bx+c=0
+  If you call function with 2 arguments, they will be arguments of linear equation bx + c = 0
+  If you call function with 1 argument, it will be argument of equation c = 0
+  This function returns a list of results
    ### That is all by now! See you soon!
