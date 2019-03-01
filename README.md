@@ -12,5 +12,5 @@ That is really easy code (experimental). If you want to make something similar, 
   ```
   school_1411.fib_1()
   ```
-  To find the roots of a quadratic or linear equation, use the function: 'solve(a, b, c)'
+  To find the roots of a quadratic or linear equation, use the function: `solve(a, b, c)`
    ### That is all by now! See you soon!
