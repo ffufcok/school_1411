@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'school_1411',
   packages = ['school_1411'],   
-  version = '0.0.1',      
+  version = '0.0.9',      
   license='MIT',
   description = 'Really easy and experemental package',   
   author = 'Ilya Tolstobrov',                   
@@ -10,7 +10,7 @@ setup(
   url = 'https://github.com/tol063115/school_1411/tree/0.0.1',  
   download_url = 'https://github.com/tol063115/school_1411/archive/0.0.1.tar.gz',    
   keywords = ['MISHA', 'LOH', 'FIBONACCI'],   
-  install_requires=[],
+  install_requires=['pillow', 'IPython.display'],
   classifiers=[
     'Development Status :: 2 - Beta',      
     'Intended Audience :: Developers',      
